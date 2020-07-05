@@ -1,0 +1,6 @@
+djangorestframework
+django-filter
+pymysql
+mysqlclient
+django-cors-headers
+pillow
